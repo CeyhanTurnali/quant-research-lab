@@ -1,0 +1,24 @@
+[project]
+name = "quant-research-lab"
+version = "0.1.0"
+description = "Applied quant research: optimization, deep learning, attention, and financial NLP — production-quality modules, not notebooks."
+requires-python = ">=3.11"
+readme = "README.md"
+license = { text = "MIT" }
+dependencies = [
+    "numpy",
+    "pandas",
+    "scikit-learn",
+]
+
+[project.optional-dependencies]
+nlp = ["gensim>=4.3", "nltk"]
+macro = ["fredapi", "pyarrow"]
+dev = ["pytest", "pytest-cov", "ruff"]
+
+[tool.ruff]
+line-length = 100
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
