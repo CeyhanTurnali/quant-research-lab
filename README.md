@@ -16,14 +16,14 @@ comparison matures (H10), the reusable pieces (`preprocess/`, `features/`,
 
 ## Status
 
-| Area | Status | 
+| Area | Status | Introduced |
 |---|---|---|
-| optimization | 🟡 in progress | 
-| nlp | 🟡 in progress | 
-| macro | 🟡 in progress | 
-| deep-learning | ⚪ planned | 
-| attention | ⚪ planned | 
-| sequence-models | ⚪ planned 
+| optimization | 🟡 in progress | Week 1 |
+| nlp | 🟡 in progress | Week 1 |
+| macro | 🟡 in progress | Week 1 |
+| deep-learning | ⚪ planned | Week 3 |
+| attention | ⚪ planned | Week 5 |
+| sequence-models | ⚪ planned  | Week 7 |
 
 ## Development
 
