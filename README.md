@@ -16,7 +16,7 @@ comparison matures (H10), the reusable pieces (`preprocess/`, `features/`,
 
 ## Status
 
-| Area | Status | Introduced |
+| Area | Status | 
 |---|---|---|
 | optimization | 🟡 in progress | 
 | nlp | 🟡 in progress | 
